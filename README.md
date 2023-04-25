@@ -3,7 +3,7 @@
 
 **Degrees (BFS)** [see directory](https://github.com/dtemir/harvard-CS50AI/tree/master/degrees):
     
-* The assignment is about finding the shortest path between two nodes
+* The assignment is about finding the shortest path between two nodes.
 * The database comes from IMDb, and the task is to tell how one actor is connected to another through their common movie casts
 * The solution is based on Breadth-First Search (BFS) because the task requires the shortest path between nodes
 * To implement the search, I used a Queue-based Frontier. The Frontier is filled with neighboring nodes that share the same parameter(movie)
